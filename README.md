@@ -15,7 +15,7 @@ GitHub uses a file from here only when a repository doesn't have its own:
 
 A repository that adds its own file of a kind overrides the default. For issue forms, it is all or nothing: a repository with any form of its own in `.github/ISSUE_TEMPLATE/` gets none of these, so copy the ones you still want.
 
-Defaults don't cover everything. Each repository still needs its own licence, README and CONTRIBUTING (the [Hub](https://djazair.dev/en/hub/) reads them from the repository itself). The [project template](https://github.com/djazairdev/project-template) has those files, and a prompt that sets them up with a coding agent.
+Defaults don't cover everything. Each repository still needs its own licence (GitHub has no default licence), README and CONTRIBUTING, which describe the project itself. The [project template](https://github.com/djazairdev/project-template) has those files, and a prompt that sets them up with a coding agent.
 
 ## Changing a default
 
