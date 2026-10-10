@@ -17,7 +17,7 @@ Open-source software for Algeria, built in the open by Algerian developers and e
 ### Talk to us
 
 - [Ask a question](https://github.com/orgs/djazairdev/discussions/categories/q-a) in our discussions, in Arabic, Tamazight, French or English.
-- Follow [djazairdev on Facebook](https://www.facebook.com/djazairdev) for news.
+- Follow djazairdev on [Facebook](https://www.facebook.com/djazairdev) and [X](https://x.com/djazairdev) for news.
 
 ### Bring your project
 
