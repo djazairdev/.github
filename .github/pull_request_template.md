@@ -2,12 +2,25 @@
 
 ## What and why
 
+Closes #
 
+## How it was tested
 
-## Checks
+<!-- The commands you ran and what they showed. -->
 
-- [ ] The tests pass, and new behaviour has a test
-- [ ] The docs and the changelog say what changed, if users will notice it
+## Screens
+
+<!-- Before and after, in Arabic and in French or English, at 360 px wide and on a desktop. Delete this section if nothing visible changed. -->
+
+## Checklist
+
+- [ ] The title is a Conventional Commit, such as `fix: wrong code for Adrar`
+- [ ] It's one change, and new behaviour has a test
+- [ ] No new dependency, unless the issue agreed to it
 - [ ] No secrets, tokens or personal data
+- [ ] I didn't edit `CHANGELOG.md` or the version: they're made from the title
 
-<!-- Closes #… -->
+## AI assistance
+
+- [ ] I used no AI tools for this change.
+- [ ] I used AI tools (name them, and say what they did). I understand every line, and I ran the checks myself.
