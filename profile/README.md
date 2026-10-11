@@ -6,8 +6,11 @@ Open-source software for Algeria, built in the open by Algerian developers and e
 
 | Project | What it is |
 |---|---|
-| [djazair.dev](https://github.com/djazairdev/djazair.dev) | Algeria's developer ecosystem: the Developer Index, and the Hub of open-source projects with issues for newcomers |
+| [djazair.dev](https://github.com/djazairdev/djazair.dev) | Algeria's developer ecosystem, live at [djazair.dev](https://djazair.dev): the Developer Index, from GitHub's data each quarter, and the Hub of open-source projects with issues for newcomers |
 | [wilayas](https://github.com/djazairdev/wilayas) | Algeria's 69 wilayas, 538 daïras and 1,541 communes as a free API in JSON and CSV, from the official texts: [wilayas.djazair.dev](https://wilayas.djazair.dev/docs/) |
+| [founders.coffee](https://github.com/djazairdev/founders.coffee) | Free local meetups for founders in Algeria, in Arabic, French and English: [founders.coffee](https://founders.coffee) |
+| [Minhajna](https://github.com/djazairdev/minhajna) | A free, open-source app for Algeria's teachers, from the yearly plan to every lesson. In planning: there's no app yet |
+| [Detent](https://github.com/djazairdev/detent) | A Claude Code plugin that turns planning documents into reviewed, test-gated code, with a deterministic referee |
 
 ### Start contributing
 
