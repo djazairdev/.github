@@ -1,0 +1,58 @@
+# The form for the "Ideas" category of djazairdev's Discussions. djazair.dev's Hub reads the
+# ideas and their votes (https://github.com/djazairdev/djazair.dev/blob/main/docs/hub-ideas.md).
+# djazair.dev keeps a tested copy of this form: keep the two the same.
+title: "Idea: "
+body:
+  - type: markdown
+    attributes:
+      value: "An idea for an open-source project that would help people in Algeria. Describe the problem first. Anyone with a GitHub account can upvote it. Every quarter, djazair.dev adopts the idea with the most votes among those with a champion and at least 10 votes. [How the vote works](https://github.com/djazairdev/djazair.dev/blob/main/docs/hub-ideas.md)"
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: "What is hard or missing today, and where does it show? Plain words are best, in English or Arabic."
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Who benefits
+      description: "The people it would help: students, a profession, a region, developers, everyone who writes in Arabic…"
+    validations:
+      required: true
+  - type: input
+    id: champion
+    attributes:
+      label: Champion
+      description: "The GitHub username of the person who will lead it: you, or someone who agreed. Write \"wanted\" if nobody has yet. An idea needs a champion to be adopted."
+      placeholder: "@username, or wanted"
+    validations:
+      required: true
+  - type: dropdown
+    id: skills
+    attributes:
+      label: Skills needed
+      description: "Pick every skill the first version needs."
+      multiple: true
+      options:
+        - Web front end
+        - Back end and APIs
+        - Mobile apps
+        - Data and open data
+        - Machine learning
+        - Design and UX
+        - Arabic, Tamazight or Darija language work
+        - Translation and localisation
+        - Documentation
+        - Infrastructure and operations
+        - Hardware
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: "Links, data sources, similar projects elsewhere, or a first sketch."
+  - type: markdown
+    attributes:
+      value: "Votes are GitHub upvotes, one per account, and they carry over from one quarter to the next until the idea is adopted. When a quarter ends, the maintainers review the ideas with the most votes. The one adopted gets a repository in the djazairdev organisation, with its champion as maintainer, and the **adopted** label. The other ideas stay in the vote, and the best also go to hackathons and djazair.dev meetups."
