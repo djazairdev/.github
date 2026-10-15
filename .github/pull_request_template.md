@@ -10,7 +10,7 @@ Closes #
 
 ## Screens
 
-<!-- Before and after, in Arabic and in French or English, at 360 px wide and on a desktop. Delete this section if nothing visible changed. -->
+<!-- Before and after, at 360 px wide and on a desktop, in each language the page has. Delete this section if nothing visible changed. -->
 
 ## Checklist
 

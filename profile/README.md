@@ -15,6 +15,7 @@ Open-source software for Algeria, built in the open by Algerian developers and e
 ### Start contributing
 
 - Pick an issue labelled **good first issue** or **help wanted** in any project. The [Hub](https://djazair.dev/en/hub/) gathers them from projects across Algeria.
+- Comment `/take` on it: it's assigned to you, and you can start straight away. Comment `/drop` if you stop.
 - Read the project's CONTRIBUTING file, and our [code of conduct](https://github.com/djazairdev/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### Talk to us
